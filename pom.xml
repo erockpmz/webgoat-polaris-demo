@@ -119,7 +119,7 @@
       <dependency>
         <groupId>org.apache.commons</groupId>
         <artifactId>commons-exec</artifactId>
-        <version>1.6.0</version>
+        <version>1.3.2</version>
       </dependency>
       <dependency>
         <groupId>org.asciidoctor</groupId>
@@ -239,7 +239,7 @@
     <dependency>
       <groupId>commons-fileupload</groupId>
       <artifactId>commons-fileupload</artifactId>
-      <version>1.6.0</version>
+      <version>1.3.2</version>
     </dependency>
     <dependency>
       <groupId>org.apache.commons</groupId>
